@@ -1,0 +1,27 @@
+.tree-item-children > .tree-item > .tree-item-self > .tree-item-inner {
+  font-weight: bold;
+}
+
+.tree-item-children > .tree-item:nth-child(6n+1) > .tree-item-self > .tree-item-inner {
+  color: #ff6961; /* rouge pastel vif */
+}
+
+.tree-item-children > .tree-item:nth-child(6n+2) > .tree-item-self > .tree-item-inner {
+  color: #ffb347; /* orange pastel vif */
+}
+
+.tree-item-children > .tree-item:nth-child(6n+3) > .tree-item-self > .tree-item-inner {
+  color: #ffd24d; /* jaune pastel vif */
+}
+
+.tree-item-children > .tree-item:nth-child(6n+4) > .tree-item-self > .tree-item-inner {
+  color: #5cd65c; /* vert pastel vif */
+}
+
+.tree-item-children > .tree-item:nth-child(6n+5) > .tree-item-self > .tree-item-inner {
+  color: #5cacee; /* bleu pastel vif */
+}
+
+.tree-item-children > .tree-item:nth-child(6n+6) > .tree-item-self > .tree-item-inner {
+  color: #d98cf4; /* mauve pastel vif */
+}
